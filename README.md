@@ -5,14 +5,14 @@ I'm Yunus Emre TOKYAY a Full Stack Web Developer. I Spend most of time research 
 :mailbox: Reach me out!
 
  <a href="https://www.linkedin.com/in/yunus-emre-tokyay-ba6ab020a/">
-    <img align="left" alt="Yunus Emre TOKYAY | Linkedin" width="24px" src="https://raw.githubusercontent.com/yunusemretokyay1/yunusemretokyay/assets/Linkedin.svg" />
+    <img align="left" alt="Yunus Emre TOKYAY | Linkedin" width="24px" src="https://raw.github.com/yunusemretokyay1/yunusemretokyay/assets/Linkedin.svg" />
   </a>
   <a href="https://twitter.com/yunusemretokyay">
-    <img align="left" alt="Yunus Emre TOKYAY | Twitter" width="26px" src="https://raw.githubusercontent.com/yunusemretokyay1/yunusemretokyay/assets/Twitter.svg" />
+    <img align="left" alt="Yunus Emre TOKYAY | Twitter" width="26px" src="https://raw.github.com/yunusemretokyay1/yunusemretokyay/assets/Twitter.svg" />
   </a>
 
   <a href="mailto:yunusemrtokyay@gmail.com">
-    <img align="left" alt="Yunus Emre TOKYAY | Gmail" width="26px" src="https://raw.githubusercontent.com/yunusemretokyay1/yunusemretokyay/assets/Gmail.svg" />
+    <img align="left" alt="Yunus Emre TOKYAY | Gmail" width="26px" src="https://raw.github/yunusemretokyay1/yunusemretokyay/assets/Gmail.svg" />
   </a>
 
 
