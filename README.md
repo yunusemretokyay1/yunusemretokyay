@@ -1,12 +1,14 @@
 ## Hi I'm Yunus <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Yunus Emre TOKYAY a Full Stack Web Developer. I Spend most of time research and 
+I'm Yunus Emre TOKYAY a Full Stack Web Developer. I Spend most of time research and  work
 
 :mailbox: Reach me out!
 
 <a href="https://www.linkedin.com/in/yunus-emre-tokyay-ba6ab020a/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=LinkedIn style="margin-bottom: 5px;" />
 </a>
+<img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fyunusemretokyay">
+
 
 #### Top Technologies
 
