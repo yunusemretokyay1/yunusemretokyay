@@ -7,7 +7,9 @@ I'm Yunus Emre TOKYAY a Full Stack Web Developer. I Spend most of time research 
 <a href="https://www.linkedin.com/in/yunus-emre-tokyay-ba6ab020a/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=LinkedIn style="margin-bottom: 5px;" />
 </a>
-<img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fyunusemretokyay">
+<a href="https://twitter.com/yunusemretokyay" target="_blank">
+ <img alt="X (formerly Twitter) style="margin-bottom: 5px; URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fyunusemretokyay" >
+</a>
 
 
 #### Top Technologies
