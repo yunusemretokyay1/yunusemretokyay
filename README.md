@@ -27,11 +27,11 @@ I'm Yunus Emre Tokyay a Full Stack Web Developer. I Spend most of time research 
 #### Github Stats
 
 <p>
-  <img src="https://img.shields.io/github/last-commit/yunusemretokyay1/yunusemretokyay1?color=blue&label=last%20updated&style=flat" />
+  <img src="https://img.shields.io/github/last-commit/yunusemretokyay1/yunusemretokyay?color=blue&label=last%20updated&style=flat" />
 </p>
 
 ![Yunus's github stats](https://github-readme-stats.vercel.app/api?username=yunusemretokyay1&count_private=true&theme=blue-green&hide=contribs,prs)
 
-![Yunus's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yunusemretokyay1t&theme=blue-green)
+![Yunus's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yunusemretokyay1&theme=blue-green)
 
 </details>
