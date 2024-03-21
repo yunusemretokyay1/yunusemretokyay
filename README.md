@@ -4,11 +4,6 @@ I'm Yunus Emre Tokyay a Full Stack Web Developer. I Spend most of time research 
 
 :mailbox: Reach me out!
 
-- 🔭 I’m currently working on building a trading platform.
-- 🤔 I’m looking for help with machine learning.
-- 📫 How to reach me: onsjannet@gmail.com.
-- 😄 Pronouns: She/her.
-- ⚡ Fun fact: i like mixing finance with computer science.
 
 #### Top Technologies
 
